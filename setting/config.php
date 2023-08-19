@@ -4,10 +4,10 @@
 class project2
 	
 {
-	public $server = "localhost";
-	public $username = "root";
-	public $password = "";
-	public $dbname = "project2";
+	public $server = "sql207.infinityfree.com";
+	public $username = "if0_34850952";
+	public $password = "LWDJIqIXinDH";
+	public $dbname = "if0_34850952_project2";
 	public $connectdb;
 	
 	function __construct()

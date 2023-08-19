@@ -104,8 +104,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 				<!--footer section start-->
 				<footer>
-					<p>&copy 2018 Augment . All Rights Reserved | Design by <a href="https://w3layouts.com/"
-							target="_blank">UVCI.</a> and PCT Groupe 3</p>
+				<p>All Rights Reserved | Design by <a href="https://www.uvci.edu.ci/portail/Main/index/fr"
+				target="_blank">UVCI.</a> and PCT Groupe 3 2023</p>
 				</footer>
 				<!--footer section end-->
 			</div>

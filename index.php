@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Scholarly an Education Category Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title></title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -624,8 +624,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </div>
 <div class="w3layouts_copy_right">
 	<div class="container">
-		<p>© 2022-2023 PCT Groupe 3 UVCI . All rights reserved | Design by <a href="http://w3layouts.com">PCT Groupe 3.</a></p>
-	</div>
+	<p>All Rights Reserved | Design by <a href="https://www.uvci.edu.ci/portail/Main/index/fr"
+				target="_blank">UVCI.</a> and PCT Groupe 3 2023</p>	</div>
 </div>
 <!-- //footer -->
 

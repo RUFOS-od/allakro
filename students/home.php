@@ -100,8 +100,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 				<!--footer section start-->
 				<footer>
-					<p>&copy 2018 Augment . All Rights Reserved | Design by <a href="https://w3layouts.com/"
-							target="_blank">UVCI.</a> and PCT Groupe 3</p>
+				<p>All Rights Reserved | Design by <a href="https://www.uvci.edu.ci/portail/Main/index/fr"
+				target="_blank">UVCI.</a> and PCT Groupe 3 2023</p>
 				</footer>
 				<!--footer section end-->
 			</div>
@@ -169,12 +169,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 					</li>-->
-					<li id="menu-academico"><a href="#"><i class="lnr lnr-layers"></i> <span>Nos Infos en direct</span> <span
-								class="fa fa-angle-right" style="float: right"></span></a>
-						<ul id="menu-academico-sub">
-							<!--<li id="menu-academico-avaliacoes"><a href="grids.html">Grids</a></li>-->
-							<li id="menu-academico-boletim"><a href="media.html">Journal</a></li>
-						</ul>
+					<li id="menu-academico"><a href="https://www.fratmat.info/"><i class="lnr lnr-chart-bars"></i> <span>Nos Infos en direct</span> <span></span></a>
+						
 					</li>
 					<li id="menu-academico-avaliacoes"><a href="home.php?ravi=calender">Mon calendrier</a></li>
 					<li><a href="home.php?ravi=sante"><i class="lnr lnr-chart-bars"></i> <span>Santé</span> <span></span></a>
